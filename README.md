@@ -1,1 +1,3 @@
-# Qlik-Journey-Through-Lending-Club-
+# Qlik-Journey-Through-Lending-Club
+
+## Project Demo video:
